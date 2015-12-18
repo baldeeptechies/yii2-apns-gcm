@@ -1,4 +1,4 @@
-Yii 2 Apns Gcm
+Yii 2 Apns Gcm - Baldeep
 ==============
 Yii 2 use Apns and Gcm together with common methods like `send()` and `sendMulti()`
 
